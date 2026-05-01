@@ -1,2 +1,3 @@
 # OperitForge
-Operit publish-only artifact repository for release assets.
+
+This repository stores release assets published from Operit.
